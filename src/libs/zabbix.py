@@ -41,7 +41,7 @@ except Exception as e:
 class zbx_priorities:
     __priorities = [ 'Not classified', 'Informational', 'Warning', 'Average' ,'High', 'Disaster' ]
     __priorities_color_bg = [ '#AAFFAA', '#AAFFAA', '#FFF6A5', '#FFB689', '#FF9999', '#FF3838' ]
-    __priorities_color_fg = [ '#000000', '#000000', '#000000', '#000000', '#FFFFFF', '#FFFFFF' ]
+    __priorities_color_fg = [ '#000000', '#000000', '#000000', '#000000', '#000000', '#FFFFFF' ]
     __priorities_not_color_fg = [ '#000000', '#000000', '#000000', '#000000', '#000000', '#000000' ]
     __priorities_not_color_bg = [ '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF' ]
     __priorities_icon = [ 'green.png', 'green.png', 'yellow.png', 'amber.png', 'red.png', 'red.png' ]
