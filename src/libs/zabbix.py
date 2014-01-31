@@ -44,7 +44,7 @@ class zbx_priorities:
     __priorities_color_fg = [ '#000000', '#000000', '#000000', '#000000', '#000000', '#FFFFFF' ]
     __priorities_not_color_fg = [ '#000000', '#000000', '#000000', '#000000', '#000000', '#000000' ]
     __priorities_not_color_bg = [ '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFFFFF' ]
-    __priorities_icon = [ 'green.png', 'green.png', 'yellow.png', 'amber.png', 'red.png', 'red.png' ]
+    __priorities_icon = [ 'green.png', 'green.png', 'yellow.png', 'amber.png', 'pink.png', 'red.png' ]
     __priorities_sound = [ 'trigger_on.wav' , 'trigger_on.wav', 'trigger_on_warning.wav', 'trigger_on_average.wav', 'trigger_on_high.wav', 'trigger_on_disaster.wav' ]
     __priorities_sound_off = 'trigger_off.wav'
     __white_icon = 'white.png'
